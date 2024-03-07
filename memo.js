@@ -13,3 +13,6 @@ console.log('"git config --global user.email "molina_gap@outlook.es"');
 
 console.log('"git driff');
 //  Muestra los Cambio aun no actualizados en el Commit
+
+console.log('"git log');
+//  Para Visualizar todos Commit 
