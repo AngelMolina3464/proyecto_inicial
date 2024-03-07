@@ -16,3 +16,7 @@ console.log('"git driff');
 
 console.log('"git log');
 //  Para Visualizar todos Commit 
+
+//  Para Crear, Mostrar y Cambiar entre Ramas
+console.log("git branch ")
+console.log("$ git checkout -b NombreDe la Rama  ")
